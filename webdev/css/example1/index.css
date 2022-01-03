@@ -1,0 +1,20 @@
+body {
+    background: black;
+}
+
+p {
+    padding: 0;
+    display: flex;
+}
+
+span {
+    padding: 0;
+}
+
+span.keyword {
+    color: rgb(0, 85, 182);
+}
+
+span.ident {
+    color: grey;
+}
